@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <Header></Header>
-      <Bottles Bottles={Bottles}></Bottles>
+      <Bottles></Bottles>
     </>
   )
 }
